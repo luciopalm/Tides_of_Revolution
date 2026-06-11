@@ -1,0 +1,71 @@
+TUTORIAL 
+
+WSAD = ANDAR
+
+E = INTERAÇÃO (COLETAR,CONVERSAR,ENTRAR NO BARCO,ENTRAR NAS CASAS, ETC)
+
+CLICK ESQUERDO = ATAQUE CORPO A CORPO / ATAQUE DO BARCO / PESCA
+
+CLICK DIREITO = ATAQUE A DISTANCIA
+
+SHIFT* = BLOQUEIO DE ATAQUE (ESCUDO) (*AINDA SEM ANIMAÇÃO)
+
+ESPAÇO = DASH NO BARCO 
+
+B = ENTRAR NO INTERIOR DO BARCO QUANDO ESTIVER NAVEGANDO
+
+PAINEIS
+
+ESC = MENU PRINCIPAL
+I = INVENTÁRIO
+J = MÍSSÕES
+O = PAINÉL DO BARCO
+
+PARA SALVAR O JOGO: 
+
+DORMIR NO ACAMPAMENTO DA VILA OU NO INTERIOR DO BARCO
+
+PARA COMPRAR UM BARCO: 
+
+FALE COM DURAK
+
+
+
+---------------------------------------------------------------------
+
+
+Tutorial
+
+WASD = Move
+
+E = Interaction
+(collect items, talk, enter the boat, enter houses, etc.)
+
+Left Click = Melee attack / boat attack / fishing
+
+Right Click = Ranged attack
+
+Shift* = Attack block / shield
+*Shield animation not implemented yet.
+
+Space = Boat dash
+
+B = Enter the boat interior while sailing
+
+Panels
+
+Esc = Main menu
+
+I = Inventory
+
+J = Quests
+
+O = Boat panel
+
+How to Save the Game
+
+Sleep at the village camp or inside the boat.
+
+How to Buy a Boat
+
+Talk to Durak.

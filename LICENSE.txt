@@ -1,0 +1,63 @@
+# License
+
+Copyright © 2026 Fungo Games Studio / Lúcio Palmieri.  
+All rights reserved.
+
+This repository contains playable builds, distribution files, documentation, and related materials for **Tides Of Revolution**.
+
+## Permitted Use
+
+You may download and play the builds provided in this repository for personal use, testing, evaluation, or feedback purposes only.
+
+Private or test builds are provided solely to authorized testers or recipients and may not be redistributed without explicit written permission from the copyright holder.
+
+## Restrictions
+
+You may not, without prior written permission:
+
+- copy, redistribute, mirror, upload, share, sell, sublicense, or commercially exploit any build or file from this repository;
+- modify, adapt, translate, repackage, or create derivative works based on the game, builds, assets, or related materials;
+- reverse engineer, decompile, disassemble, or attempt to derive source code from any executable or compiled file, except where such restriction is prohibited by applicable law;
+- extract, reuse, resell, publish, or redistribute any game assets, including but not limited to art, sprites, animations, audio, music, UI, text, design content, names, characters, maps, or other creative materials;
+- remove, alter, or obscure copyright notices, credits, metadata, or proprietary notices;
+- use the game, builds, assets, names, logos, or related materials in any way that implies endorsement, partnership, or authorization.
+
+## Source Code
+
+Unless explicitly stated otherwise, this repository does not grant access to, ownership of, or any license to the source code of **Tides Of Revolution**.
+
+Any source code, scripts, tools, or technical files accidentally included in this repository remain proprietary and are covered by this license.
+
+## Feedback and Bug Reports
+
+By submitting feedback, bug reports, suggestions, screenshots, videos, logs, or debug dumps related to the game, you grant the copyright holder permission to use that material for development, debugging, improvement, marketing, documentation, and testing purposes, without compensation or obligation.
+
+You should not submit files containing personal, confidential, or third-party information unless explicitly requested.
+
+## Saves, Logs, and Debug Dumps
+
+Save files, logs, and debug dumps may contain technical information about the game state, system environment, or build behavior.
+
+Do not publicly share saves, logs, or dumps that contain personal information or private test data.
+
+## No Warranty
+
+The builds and materials in this repository are provided **as is**, without warranty of any kind.
+
+The game is under active development and may contain bugs, incomplete systems, crashes, data loss issues, balance problems, or other defects.
+
+The copyright holder is not liable for any damages, data loss, system issues, or other consequences resulting from downloading, installing, running, testing, or using the builds or materials in this repository.
+
+## Termination
+
+Permission to access, download, or test the builds may be revoked at any time.
+
+If you violate this license, your permission to use the builds and materials ends immediately, and you must delete all copies in your possession.
+
+## Contact
+
+For permission requests, licensing questions, or distribution inquiries, contact the copyright holder.
+
+---
+
+**Tides Of Revolution** and all related game content are proprietary works of Fungo Games Studio / Lúcio Palmieri unless otherwise stated.

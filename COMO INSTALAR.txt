@@ -1,0 +1,66 @@
+## Instalação — Windows
+
+1. Baixe o arquivo da build para Windows.
+2. Extraia o arquivo `.zip`.
+3. Copie todos os arquivos extraídos para uma pasta no seu computador.
+4. Abra a pasta e execute:
+
+
+Tides Of Revolution.exe
+
+
+Mantenha todos os arquivos da build na mesma pasta do executável para evitar erros ao iniciar o jogo.
+
+
+
+
+## Instalação — macOS
+
+1. Baixe o arquivo da build para macOS.
+2. Extraia o arquivo `.zip`.
+3. Arraste o aplicativo `.app` para:
+
+Applications / Aplicativos
+
+4. Abra o jogo.
+
+Se o macOS bloquear a abertura por segurança, clique com o botão direito no aplicativo, selecione **Abrir** e confirme.
+
+
+Muito obrigado por testar!
+
+-------------------------------------------------------------------------------------------------------------------------
+
+## Installation — Windows
+
+1. Download the Windows build file.
+2. Extract the `.zip` file.
+3. Copy all extracted files to a folder on your computer.
+4. Open the folder and run:
+
+
+Tides Of Revolution.exe
+
+
+Keep all build files in the same folder as the executable to avoid startup issues.
+
+
+
+## Installation — macOS
+
+1. Download the macOS build file.
+2. Extract the `.zip` file.
+3. Drag the `.app` file to:
+
+
+Applications
+
+
+4. Open the game.
+
+If macOS blocks the app for security reasons, right-click the app, select **Open**, and confirm.
+
+
+Thanks for testing!
+
+Lúcio Fungo Palmieri
